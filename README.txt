@@ -18,4 +18,6 @@ Observation for Restaurant(<20) Coupon Acceptance rate and  characteristics of p
 
 Observation for Restaurant(<20) Coupon not accepted rate  and characteristics of passengers who accept the coupons.
 
+Link to this notebook :
+https://github.com/chandtr/EDA1/blob/master/Assignment1.ipynb
 
