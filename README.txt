@@ -18,6 +18,9 @@ Observation for Restaurant(<20) Coupon Acceptance rate and  characteristics of p
 
 Observation for Restaurant(<20) Coupon not accepted rate  and characteristics of passengers who accept the coupons.
 
+Recommendations :
+Based on the analysis of the Restaurant(<20) Coupon has more acceptance compare to other coupon types and Coffee house coupons has equal rate for Accepted and not Accepted case.
+
 Link to this notebook :
 https://github.com/chandtr/EDA1/blob/master/Assignment1.ipynb
 
